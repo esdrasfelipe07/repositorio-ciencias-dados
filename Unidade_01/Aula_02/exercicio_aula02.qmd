@@ -1,0 +1,33 @@
+---
+title: "Exercício - Aula 02"
+author: "Esdras Felipe"
+format:
+  html:
+    toc: true
+    code-fold: false
+---
+
+# Aula 02 - Exercício
+
+**Aluno:** Esdras Felipe  
+**Matrícula:** [Sua Matrícula Aqui]  
+
+---
+
+## Introdução
+
+Este documento em Quarto (.qmd) contém o exercício prático da Aula 02.
+
+## Bloco de Código
+
+```{python}
+# Exemplo de código em Python
+import numpy as np
+
+valores = np.array([1, 2, 3, 4, 5])
+print("Valores ao quadrado:", valores**2)
+```
+
+## Análise e Discussão
+
+> Adicione aqui a discussão conceitual e análise dos resultados gerados.
