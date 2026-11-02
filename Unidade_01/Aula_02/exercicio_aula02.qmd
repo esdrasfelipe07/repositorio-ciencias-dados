@@ -10,6 +10,6 @@ format:
 # Aula 02 - Introdução aos Dados Tabulares
 
 **Aluno:** Esdras Felipe  
-**Matrícula:** `[Insira sua matrícula aqui]`  
+**Matrícula:** `20230051975`  
 **Disciplina:** Ciência de Dados
 
