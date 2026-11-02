@@ -1,5 +1,5 @@
 ---
-title: "Exercício - Aula 02"
+title: "Aula 2 - Introdução aos Dados Tabulares"
 author: "Esdras Felipe"
 format:
   html:
@@ -7,27 +7,22 @@ format:
     code-fold: false
 ---
 
-# Aula 02 - Exercício
+# Aula 2 - Introdução aos Dados Tabulares
 
 **Aluno:** Esdras Felipe  
-**Matrícula:** [Sua Matrícula Aqui]  
+**Matrícula:** `[Insira sua matrícula aqui]`  
+**Material Oficial:** [Aula 2 - Introdução aos Dados Tabulares](https://oandrefonseca.github.io/data-science/aulas/02-introducao-dados-tabulares.html)
 
 ---
 
-## Introdução
+## Ritual de Inspeção Inicial
 
-Este documento em Quarto (.qmd) contém o exercício prático da Aula 02.
-
-## Bloco de Código
+Este documento em Quarto sintetiza o ritual de inspeção de dados tabulares com pandas:
 
 ```{python}
-# Exemplo de código em Python
-import numpy as np
-
-valores = np.array([1, 2, 3, 4, 5])
-print("Valores ao quadrado:", valores**2)
+import pandas as pd
+print("Inspeção inicial com pandas")
 ```
 
-## Análise e Discussão
-
-> Adicione aqui a discussão conceitual e análise dos resultados gerados.
+### Análise Conceitual
+Discuta aqui os 5 passos do ritual de inspeção inicial aplicados ao dataset da aula.

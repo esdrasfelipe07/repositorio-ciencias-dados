@@ -1,0 +1,25 @@
+---
+title: "Aula 4 - Análise de Vendas em R"
+author: "Esdras Felipe"
+format:
+  html:
+    toc: true
+    code-fold: false
+---
+
+# Aula 4 - Análise de Vendas em R
+
+**Aluno:** Esdras Felipe  
+**Matrícula:** `[Insira sua matrícula aqui]`  
+**Material Oficial:** [Aula 4 - Análise de Vendas em R](https://oandrefonseca.github.io/data-science/aulas/04-analise-vendas-r.html)
+
+---
+
+## Análise com R e Tidyverse
+
+Documento Quarto para reproduzir a análise de vendas em linguagem R.
+
+```r
+# library(tidyverse)
+# library(readxl)
+```
