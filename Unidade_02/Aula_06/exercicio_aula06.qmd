@@ -1,5 +1,5 @@
 ---
-title: "Aula 6 - Imputação e Normalização de Dados"
+title: "Aula 06 - Imputação e Normalização de Dados"
 author: "Esdras Felipe"
 format:
   html:
@@ -7,14 +7,9 @@ format:
     code-fold: false
 ---
 
-# Aula 6 - Imputação e Normalização de Dados
+# Aula 06 - Imputação e Normalização de Dados
 
 **Aluno:** Esdras Felipe  
 **Matrícula:** `[Insira sua matrícula aqui]`  
-**Material Oficial:** [Aula 6 - Imputação e Normalização de Dados](https://oandrefonseca.github.io/data-science/aulas/06-imputacao-normalizacao-dados.html)
+**Disciplina:** Ciência de Dados
 
----
-
-## Estudo de Caso: Mercado Imobiliário de São Paulo
-
-Pipeline de pré-processamento, limpeza, imputação e normalização.

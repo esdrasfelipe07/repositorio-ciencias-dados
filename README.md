@@ -4,17 +4,17 @@ Repositório oficial para registro de atividades práticas, estudos de caso, exe
 
 ---
 
-## 👤 Identificação do Aluno
+## Identificação do Aluno
 
-- **Nome Completo:** Esdras Felipe
-- **Matrícula:** `[Insira sua matrícula aqui]`
-- **Curso:** Tecnologia da Informação / Ciência de Dados
+- **Nome Completo:** Esdras Felipe Chaves Pinto Nascimento e Silva
+- **Matrícula:** `20230051975`
+- **Curso/Disciplina:** Tecnologia da Informação / Ciência de Dados
 - **Docente:** Prof. Dr. André Fonseca
 - **Material Oficial da Disciplina:** [Ciência de Dados (oandrefonseca.github.io/data-science)](https://oandrefonseca.github.io/data-science/)
 
 ---
 
-## 🧭 Sumário Geral
+## Sumário Geral
 
 1. [Identificação do Aluno](#-identificação-do-aluno)
 2. [Tabela de Navegação Rápida (Sumário das Aulas)](#-tabela-de-navegação-rápida)
@@ -40,7 +40,7 @@ Repositório oficial para registro de atividades práticas, estudos de caso, exe
 
 ---
 
-## 📊 Tabela de Navegação Rápida
+## Tabela de Navegação Rápida
 
 A tabela abaixo sintetiza o mapeamento completo das aulas com os roteiros oficiais do professor e os respectivos arquivos de exercícios neste repositório:
 
@@ -61,7 +61,7 @@ A tabela abaixo sintetiza o mapeamento completo das aulas com os roteiros oficia
 
 ---
 
-## 🗂️ Estrutura do Repositório
+## Estrutura do Repositório
 
 A hierarquia de pastas segue rigorosamente as recomendações de padronização (sem espaços, sem acentuação, nomes descritivos em `Unidade_XX`, `Aula_YY` e `Tarefa_Unidade_X`):
 
@@ -107,7 +107,7 @@ repositorio-ciencias-dados/
 
 ---
 
-## 📘 Unidade 01 — Fundamentos, Manipulação e Análise Exploratória
+## Unidade 01 — Fundamentos, Manipulação e Análise Exploratória
 
 ### [Aula 01: Ferramentas, Ambiente e Versionamento](./Unidade_01/Aula_01/)
 - **Roteiro Oficial:** [Aula 1 — Ferramentas, Ambiente e Versionamento](https://oandrefonseca.github.io/data-science/aulas/01-ferramentas-ambiente-versionamento.html)
@@ -146,7 +146,7 @@ repositorio-ciencias-dados/
 
 ---
 
-## 📗 Unidade 02 — Estatística Descritiva e Pré-processamento
+## Unidade 02 — Estatística Descritiva e Pré-processamento
 
 ### [Aula 05: Estatística Descritiva](./Unidade_02/Aula_05/)
 - **Roteiro Oficial:** [Aula 5 — Estatística Descritiva](https://oandrefonseca.github.io/data-science/aulas/05-estatistica-descritiva.html)
@@ -174,7 +174,7 @@ repositorio-ciencias-dados/
 
 ---
 
-## 📙 Unidade 03 — Inferência Estatística e Testes de Hipóteses
+## Unidade 03 — Inferência Estatística e Testes de Hipóteses
 
 ### [Aula 07: Estatística Inferencial](./Unidade_03/Aula_07/)
 - **Roteiro Oficial:** [Aula 7 — Estatística Inferencial](https://oandrefonseca.github.io/data-science/aulas/07-inferencia-estatistica.html)
@@ -218,7 +218,7 @@ repositorio-ciencias-dados/
 
 ---
 
-## 📦 Bases de Dados Utilizadas
+## Bases de Dados Utilizadas
 
 Em consonância com as instruções de reprodutibilidade da disciplina, os arquivos de dados brutos não são versionados no Git (conforme regras em `.gitignore`). As instruções de obtenção e citação encontram-se abaixo:
 
@@ -241,7 +241,7 @@ Em consonância com as instruções de reprodutibilidade da disciplina, os arqui
 
 ---
 
-## 🛠️ Ambiente, Instalação e Reprodutibilidade
+## Ambiente, Instalação e Reprodutibilidade
 
 Para recriar o ambiente de desenvolvimento idêntico em qualquer máquina:
 
@@ -261,7 +261,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📋 Diretrizes de Desenvolvimento e Boas Práticas
+## Diretrizes de Desenvolvimento e Boas Práticas
 
 - **Código + Análise:** Todo bloco de código relevante deve ser imediatamente acompanhado de um bloco de texto (Markdown) com interpretação crítica dos resultados numéricos e gráficos.
 - **Padronização:** Respeitar a nomenclatura de diretórios (`Unidade_XX`, `Aula_YY`, `exercicio_aulaYY`), sem caracteres especiais ou espaços.

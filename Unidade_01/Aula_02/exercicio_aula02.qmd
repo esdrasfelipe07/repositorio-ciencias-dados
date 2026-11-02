@@ -1,5 +1,5 @@
 ---
-title: "Aula 2 - Introdução aos Dados Tabulares"
+title: "Aula 02 - Introdução aos Dados Tabulares"
 author: "Esdras Felipe"
 format:
   html:
@@ -7,22 +7,9 @@ format:
     code-fold: false
 ---
 
-# Aula 2 - Introdução aos Dados Tabulares
+# Aula 02 - Introdução aos Dados Tabulares
 
 **Aluno:** Esdras Felipe  
 **Matrícula:** `[Insira sua matrícula aqui]`  
-**Material Oficial:** [Aula 2 - Introdução aos Dados Tabulares](https://oandrefonseca.github.io/data-science/aulas/02-introducao-dados-tabulares.html)
+**Disciplina:** Ciência de Dados
 
----
-
-## Ritual de Inspeção Inicial
-
-Este documento em Quarto sintetiza o ritual de inspeção de dados tabulares com pandas:
-
-```{python}
-import pandas as pd
-print("Inspeção inicial com pandas")
-```
-
-### Análise Conceitual
-Discuta aqui os 5 passos do ritual de inspeção inicial aplicados ao dataset da aula.
