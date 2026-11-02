@@ -4,8 +4,8 @@ Repositório destinado ao desenvolvimento e entrega das atividades práticas e p
 
 ## 👤 Identificação
 
-- **Nome Completo:** Esdras Felipe
-- **Matrícula:** `[Insira sua matrícula aqui]`
+- **Nome Completo:** Esdras Felipe Chaves Pinto Nascimento e Silva
+- **Matrícula:** `20230051975`
 
 ---
 
