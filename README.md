@@ -24,8 +24,6 @@ Repositório destinado ao desenvolvimento e entrega das atividades práticas e p
   - [exercicio_aula10.ipynb](./Unidade_02/Aula_10/exercicio_aula10.ipynb) — *[Aula 10: Regressão Linear](https://oandrefonseca.github.io/data-science/aulas/10-regressao-linear.html)*
 - **[Aula 11](./Unidade_02/Aula_11/)**
   - [exercicio_aula11.ipynb](./Unidade_02/Aula_11/exercicio_aula11.ipynb) — *[Aula 11: Aprendizado Não Supervisionado](https://oandrefonseca.github.io/data-science/aulas/11-aprendizado-nao-supervisionado.html)*
-- **[Tarefa Unidade 2](./Unidade_02/Tarefa_Unidade_2/)**
-  - [projeto_unidade2.ipynb](./Unidade_02/Tarefa_Unidade_2/projeto_unidade2.ipynb) — *Projeto avaliativo da Unidade 02*
 
 ---
 
@@ -45,8 +43,6 @@ repositorio-ciencias-dados/
     │   └── exercicio_aula09.ipynb
     ├── Aula_10/
     │   └── exercicio_aula10.ipynb
-    ├── Aula_11/
-    │   └── exercicio_aula11.ipynb
-    └── Tarefa_Unidade_2/
-        └── projeto_unidade2.ipynb
+    └── Aula_11/
+        └── exercicio_aula11.ipynb
 ```
