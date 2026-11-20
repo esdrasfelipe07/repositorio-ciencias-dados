@@ -32,6 +32,8 @@ Repositório destinado ao desenvolvimento e entrega das atividades práticas e p
 ```text
 repositorio-ciencias-dados/
 ├── README.md
+├── datasets/                                 # Datasets utilizados nas aulas (.csv)
+│   └── README.md
 └── Unidade_02/
     ├── Aula_06/
     │   └── exercicio_aula06.ipynb
